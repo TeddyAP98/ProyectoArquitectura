@@ -1,5 +1,5 @@
 # Proyecto Arquitectura
-# Gestion de pedidos e inventarios para empresa importadora de productos.
+# Gestion de pedidos y control de inventarios para empresa importadora de productos.
 ## Problema
 Pese al avance tecnologico actual en nuestro pais se sigue manejando en muchos casos, un proceso manual para todo lo que es control pedidos e interaioso se maneja de forma tal que no se tiene un buen control.
 ## Propuesta general de solución
