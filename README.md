@@ -22,7 +22,6 @@ Mejora en el manejo del producto, asi como tambien menor perdida de producto y p
 - MS - Administrador
 ## LISTADO DE REQUERIMIENTOS
 - Inicio de sesion
-- Registro de pedidos
 - Registro de productos
 - Listado de productos
 - Modificacion de productos
