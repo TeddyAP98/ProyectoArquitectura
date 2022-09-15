@@ -21,7 +21,14 @@ Mejora en el manejo del producto, asi como tambien menor perdida de producto y p
 - MS - Pedidos
 - MS - Administrador
 ## LISTADO DE REQUERIMIENTOS
-- Regsitro de pedidos
-- Listado de productos en almacen
-- Verificacion constante del stock
+- Inicio de sesion
+- Registro de pedidos
 - Registro de productos
+- Listado de productos
+- Modificacion de productos
+- Eliminacion de productos
+- Verificacion del stock
+- Registro de pedidos
+- Aprobacion de pedidos
+- Registro de clientes
+- Listado de clientes
