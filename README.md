@@ -15,7 +15,7 @@ Mejora en el manejo del producto, asi como tambien menor perdida de producto y p
 ## FACTIBILIDAD (ANÁLISIS DE RIESGOS)
 - ECONÓMICA: El sistema propuesto tendra un costo de 15000 Bs aproximadamente.
 - TÉCNICA: El sistema debera contar con un alto nivel de seguridad al ser de control de producto.
-## DESCRIPCIÓN DE LOS MÓDULOS (MÍNIMO 3)
+## DESCRIPCIÓN DE LOS MÓDULOS
 - MS - Usuario
 - MS - Productos
 - MS - Pedidos
